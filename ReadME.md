@@ -12,5 +12,8 @@ The model was tested in the [football_ai.ipynb|https://github.com/Joao-Alb/Footb
 The system also considered 3 classes: judges, ball and others (players and goalkeepers) and added anotations into them. Until now, the system doesnt differ the 2 teams.
 You can see the demo from this system below:
 
-https://github.com/Joao-Alb/Football_CV/blob/master/Player_Detection/Model_Testing/results/0bfacc_0_result.mp4
+<video width="640" height="360" controls>
+  <source src="Player_Detection/Model_Testing/results/0bfacc_0_result.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
